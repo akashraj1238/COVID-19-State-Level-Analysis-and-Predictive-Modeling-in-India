@@ -1,0 +1,2 @@
+# COVID-19-State-Level-Analysis-and-Predictive-Modeling-in-India
+This project involves the development of an interactive Shiny web application designed to analyze COVID-19 data at the state level in India. The app allows users to explore the distribution of confirmed cases, recoveries, and deaths through various visualization techniques and perform predictive analysis using time series forecasting.
